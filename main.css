@@ -11,12 +11,8 @@ body {
     width: 80%;
     margin: 10% auto 0%;
     font-family: Helvetica, sans-serif;
-    text-align: left;
+    text-align: center;
     text-transform: uppercase;
-}
-
-span {
-    margin-left: 175px;
 }
 
 #clock {
